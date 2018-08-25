@@ -31,7 +31,11 @@ i{
         background-size: cover;
         background-height:25px;
        /* background-size: contain;*/
+  /*     max-height: 64px;*/
+       vertical-align: middle;
 }
+    
+
 
 
 .fi{
@@ -45,22 +49,43 @@ a{
 	text-decoration: none;
 	color: white;
 }
-.display-4{
-	text-shadow: 3px 3px 3px black;
+.display{
+	text-shadow: 2px 2px 2px white;
 
 }
 
 .text-black{
 	color: white;
+	font-size: 30px
 }
 
 .tex{
 	color: white;
-	font-size: 40px; 
+	font-size: 20px; 
 }
 
 
 .bigger{
 
-	font-size: 100px; 
+	font-size: 50px; 
 }
+.biggest{
+
+	font-size: 47px; 
+}
+
+.button{
+	border-radius: 0px 0px 0px 15px;
+	cursor: pointer;}
+
+.buttonone{
+	vertical-align: middle;
+	border-radius: 0px 0px 15px 15px;
+	cursor: pointer;
+}
+
+.buttontwo{
+	border-radius: 0px 0px 15px 0px;
+	cursor: pointer;
+}
+
