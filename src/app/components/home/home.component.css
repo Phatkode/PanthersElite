@@ -20,3 +20,47 @@ i{
 	align-content: center
 	
 }
+
+
+.fitpic{
+
+  background-image:url('https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/SufdADj8iqbwe23d/videoblocks-leather-basketball-skin-texture_brtskd-4g_thumbnail-full01.png');
+/*overflow-y: hidden ! important;
+        overflow-x: hidden ! important;
+        background-color: #f8f8f8;*/
+        background-size: cover;
+        background-height:25px;
+       /* background-size: contain;*/
+}
+
+
+.fi{
+
+  background-image:url('https://www.playoncourts.com/cmss_files/imagelibrary/Header_Images/basketball-wood-header.jpg');
+
+      background-size: cover;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+.display-4{
+	text-shadow: 3px 3px 3px black;
+
+}
+
+.text-black{
+	color: white;
+}
+
+.tex{
+	color: white;
+	font-size: 40px; 
+}
+
+
+.bigger{
+
+	font-size: 100px; 
+}
